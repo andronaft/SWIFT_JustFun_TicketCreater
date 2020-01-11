@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tick/ViewController.swift"
+            timestampString = "569671986.63684"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tick.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tick.ViewController"
+                  moduleName = "tick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrey/Desktop/tick/tick/ViewController.swift"
+                  timestampString = "569671986.7449909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tick.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tick.ViewController"
+                  moduleName = "tick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrey/Desktop/tick/tick/ViewController.swift"
+                  timestampString = "569671986.746761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tick.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tick.ViewController&gt;"
+                  moduleName = "tick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrey/Desktop/tick/tick/ViewController.swift"
+                  timestampString = "569671986.7483391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tick.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tick.ViewController&gt;"
+                  moduleName = "tick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrey/Desktop/tick/tick/ViewController.swift"
+                  timestampString = "569671986.749815"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tick.ViewController.__deallocating_deinit"
+                  moduleName = "tick"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrey/Desktop/tick/tick/ViewController.swift"
+                  timestampString = "569671986.751316"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
